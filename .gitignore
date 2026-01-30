@@ -1,0 +1,18 @@
+# Godot-specific
+*.import/
+*.tmp
+*.log
+*.mono
+*.cache
+*.tscn~
+*.tres~
+*.uid
+*.godot
+
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Exported games
+export/
+bin/
